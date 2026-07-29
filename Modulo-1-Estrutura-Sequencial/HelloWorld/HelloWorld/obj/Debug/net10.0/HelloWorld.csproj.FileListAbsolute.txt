@@ -1,0 +1,14 @@
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\HelloWorld\HelloWorld\bin\Debug\net10.0\HelloWorld.exe
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\HelloWorld\HelloWorld\bin\Debug\net10.0\HelloWorld.deps.json
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\HelloWorld\HelloWorld\bin\Debug\net10.0\HelloWorld.runtimeconfig.json
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\HelloWorld\HelloWorld\bin\Debug\net10.0\HelloWorld.dll
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\HelloWorld\HelloWorld\bin\Debug\net10.0\HelloWorld.pdb
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\HelloWorld\HelloWorld\obj\Debug\net10.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\HelloWorld\HelloWorld\obj\Debug\net10.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\HelloWorld\HelloWorld\obj\Debug\net10.0\HelloWorld.AssemblyInfo.cs
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\HelloWorld\HelloWorld\obj\Debug\net10.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\HelloWorld\HelloWorld\obj\Debug\net10.0\HelloWorld.dll
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\HelloWorld\HelloWorld\obj\Debug\net10.0\refint\HelloWorld.dll
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\HelloWorld\HelloWorld\obj\Debug\net10.0\HelloWorld.pdb
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\HelloWorld\HelloWorld\obj\Debug\net10.0\HelloWorld.genruntimeconfig.cache
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\HelloWorld\HelloWorld\obj\Debug\net10.0\ref\HelloWorld.dll

@@ -1,0 +1,14 @@
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\ProcessamentoDeDados\ProcessamentoDeDados\bin\Debug\net10.0\ProcessamentoDeDados.exe
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\ProcessamentoDeDados\ProcessamentoDeDados\bin\Debug\net10.0\ProcessamentoDeDados.deps.json
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\ProcessamentoDeDados\ProcessamentoDeDados\bin\Debug\net10.0\ProcessamentoDeDados.runtimeconfig.json
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\ProcessamentoDeDados\ProcessamentoDeDados\bin\Debug\net10.0\ProcessamentoDeDados.dll
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\ProcessamentoDeDados\ProcessamentoDeDados\bin\Debug\net10.0\ProcessamentoDeDados.pdb
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\net10.0\ProcessamentoDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\net10.0\ProcessamentoDeDados.AssemblyInfoInputs.cache
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\net10.0\ProcessamentoDeDados.AssemblyInfo.cs
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\net10.0\ProcessamentoDeDados.csproj.CoreCompileInputs.cache
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\net10.0\ProcessamentoDeDados.dll
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\net10.0\refint\ProcessamentoDeDados.dll
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\net10.0\ProcessamentoDeDados.pdb
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\net10.0\ProcessamentoDeDados.genruntimeconfig.cache
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\net10.0\ref\ProcessamentoDeDados.dll
