@@ -1,0 +1,15 @@
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\net10.0\PrimeiroExercicio.exe
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\net10.0\PrimeiroExercicio.deps.json
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\net10.0\PrimeiroExercicio.runtimeconfig.json
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\net10.0\PrimeiroExercicio.dll
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\net10.0\PrimeiroExercicio.pdb
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net10.0\PrimeiroExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net10.0\PrimeiroExercicio.AssemblyInfoInputs.cache
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net10.0\PrimeiroExercicio.AssemblyInfo.cs
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net10.0\PrimeiroExercicio.csproj.CoreCompileInputs.cache
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net10.0\PrimeiroExercicio.sourcelink.json
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net10.0\PrimeiroExercicio.dll
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net10.0\refint\PrimeiroExercicio.dll
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net10.0\PrimeiroExercicio.pdb
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net10.0\PrimeiroExercicio.genruntimeconfig.cache
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net10.0\ref\PrimeiroExercicio.dll

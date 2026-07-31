@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\Logica de Programa\u00E7\u00E3o com CSharp\\Modulo-1-Exercicios-Beecrowd\\Bee1002\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E059EF5A-7EBB-43B9-9919-356C153F11B1}|Bee1002\\Bee1002.csproj|c:\\projetos\\logica de programa\u00E7\u00E3o com csharp\\modulo-1-exercicios-beecrowd\\bee1002\\bee1002\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E059EF5A-7EBB-43B9-9919-356C153F11B1}|Bee1002\\Bee1002.csproj|solutionrelative:bee1002\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\Logica de Programa\u00E7\u00E3o com CSharp\\Modulo-1-Exercicios-Beecrowd\\Bee1002\\Bee1002\\Program.cs",
+              "RelativeDocumentMoniker": "Bee1002\\Program.cs",
+              "ToolTip": "C:\\Projetos\\Logica de Programa\u00E7\u00E3o com CSharp\\Modulo-1-Exercicios-Beecrowd\\Bee1002\\Bee1002\\Program.cs",
+              "RelativeToolTip": "Bee1002\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-31T01:15:40.568Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

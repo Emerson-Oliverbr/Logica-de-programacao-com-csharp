@@ -1,0 +1,15 @@
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\ExercicioTerreno\ExercicioTerreno\bin\Debug\net10.0\ExercicioTerreno.exe
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\ExercicioTerreno\ExercicioTerreno\bin\Debug\net10.0\ExercicioTerreno.deps.json
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\ExercicioTerreno\ExercicioTerreno\bin\Debug\net10.0\ExercicioTerreno.runtimeconfig.json
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\ExercicioTerreno\ExercicioTerreno\bin\Debug\net10.0\ExercicioTerreno.dll
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\ExercicioTerreno\ExercicioTerreno\bin\Debug\net10.0\ExercicioTerreno.pdb
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\ExercicioTerreno\ExercicioTerreno\obj\Debug\net10.0\ExercicioTerreno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\ExercicioTerreno\ExercicioTerreno\obj\Debug\net10.0\ExercicioTerreno.AssemblyInfoInputs.cache
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\ExercicioTerreno\ExercicioTerreno\obj\Debug\net10.0\ExercicioTerreno.AssemblyInfo.cs
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\ExercicioTerreno\ExercicioTerreno\obj\Debug\net10.0\ExercicioTerreno.csproj.CoreCompileInputs.cache
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\ExercicioTerreno\ExercicioTerreno\obj\Debug\net10.0\ExercicioTerreno.sourcelink.json
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\ExercicioTerreno\ExercicioTerreno\obj\Debug\net10.0\ExercicioTerreno.dll
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\ExercicioTerreno\ExercicioTerreno\obj\Debug\net10.0\refint\ExercicioTerreno.dll
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\ExercicioTerreno\ExercicioTerreno\obj\Debug\net10.0\ExercicioTerreno.pdb
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\ExercicioTerreno\ExercicioTerreno\obj\Debug\net10.0\ExercicioTerreno.genruntimeconfig.cache
+C:\Projetos\Logica de Programação com CSharp\Modulo-1-Estrutura-Sequencial\ExercicioTerreno\ExercicioTerreno\obj\Debug\net10.0\ref\ExercicioTerreno.dll
